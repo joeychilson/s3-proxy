@@ -4,7 +4,7 @@ A high-performance, simple S3 proxy with intelligent caching. Built for serving 
 
 ### Railway Deployment
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fyour-username%2Fs3-proxy)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/s3-proxy?referralCode=NhCCIt&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ## Features
 
